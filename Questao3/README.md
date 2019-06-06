@@ -25,7 +25,7 @@ Por fim, para utilizá-lo basta seguir os passos:
 ```$./a.out```
 
 Caso queira utilizar um dos casos de testes já prontos basta utilizar o comando:
-```$./a.out < input/in*```, onde * deve ser substituído pelo valor 1 ou 2.
+```$./a.out < input/in*```, onde * deve ser substituído pelo valor 1, 2 ou 3.
 
 Lembrando que o terminal deve estar no diretório onde se encontra o arquivo .cpp.
 
